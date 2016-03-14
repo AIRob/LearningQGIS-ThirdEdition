@@ -1,4 +1,4 @@
 # LearningQGIS-ThirdEdition
 
 
-This project contains chapter-wise Chapter-wise code files
+This project contains chapter-wise code files
